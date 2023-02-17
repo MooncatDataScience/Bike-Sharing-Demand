@@ -27,4 +27,7 @@ train.csv : 測試集
 
 train_processed.csv : 經過特徵工程過後的train，主要給模型使用
 
+---
+
+分數為: 1.55992 需要待加強
 
